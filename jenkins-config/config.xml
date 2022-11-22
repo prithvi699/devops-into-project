@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.2' encoding='UTF-8'?>
 <hudson>
   <disabledAdministrativeMonitors/>
   <version>1.0</version>
   <numExecutors>2</numExecutors>
   <mode>NORMAL</mode>
-  <useSecurity>true</useSecurity>
+  <useSecurity>false</useSecurity>
   <authorizationStrategy class="hudson.security.FullControlOnceLoggedInAuthorizationStrategy"/>
   <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
     <disableSignup>true</disableSignup>

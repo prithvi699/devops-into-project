@@ -5,7 +5,7 @@ These instructions assume familiarity with Git and GitHub. If you are not comfor
 
 After installing the required tools, you will need to ensure that your computer can find the executables to run them. For this, you might need to modify the PATH environment variable. A good overview is at [superuser.com](https://superuser.com/questions/284342/what-are-path-and-other-environment-variables-and-how-can-i-set-or-use-them). You may need to search the web for instructions on how to set the PATH variable for your specific operating system and version. 
 
-## Setting up your local machine
+## Setting up your local machine.
 
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Install [Vagrant](https://www.vagrantup.com/downloads.html)
@@ -13,7 +13,7 @@ After installing the required tools, you will need to ensure that your computer 
 * Fork this repo to your own account
 * Clone the forked repo to your local machine using this command: `git clone http://github.com/<account-name>/devops-intro-project devops`, replacing `<account-name>` with your GitHub username.
 
-## Part I: Building a box with Packer
+## Part I: Building a box with Packer.1
 
 From the packer-templates directory on your local machine:
 
@@ -38,7 +38,7 @@ Build 'virtualbox-iso' errored: ISO download failed.
 * Run `vagrant ssh` to connect to the server
 
 
-## Part II: Cloning, developing, and running the web application
+## Part II: Cloning, developing, and running the web application.................................
 
 * On your local machine go to the root directory of the cloned repository 
 * Run `git clone https://github.com/chef/devops-kungfu.git devops-kungfu`
