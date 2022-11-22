@@ -13,7 +13,7 @@ After installing the required tools, you will need to ensure that your computer 
 * Fork this repo to your own account
 * Clone the forked repo to your local machine using this command: `git clone http://github.com/<account-name>/devops-intro-project devops`, replacing `<account-name>` with your GitHub username.
 
-## Part I: Building a box with Packer.
+## Part I: Building a box with Packer.1
 
 From the packer-templates directory on your local machine:
 
