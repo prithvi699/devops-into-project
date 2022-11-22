@@ -38,7 +38,7 @@ Build 'virtualbox-iso' errored: ISO download failed.
 * Run `vagrant ssh` to connect to the server
 
 
-## Part II: Cloning, developing, and running the web application
+## Part II: Cloning, developing, and running the web application.................................
 
 * On your local machine go to the root directory of the cloned repository 
 * Run `git clone https://github.com/chef/devops-kungfu.git devops-kungfu`
